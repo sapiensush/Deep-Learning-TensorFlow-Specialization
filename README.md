@@ -1,4 +1,4 @@
-# Deep-Learning-TensorFlow-Specialization-
+# Deep-Learning-TensorFlow-Specialization
 [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice?)
 
 
